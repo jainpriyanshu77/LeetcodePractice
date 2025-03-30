@@ -1,0 +1,74 @@
+1. Basic Operations
+Find minimum and maximum in an array
+
+Reverse an array
+
+Rotate an array (left/right) by k places
+
+Merge two sorted arrays
+
+2. Searching & Sorting
+Binary Search in a sorted array
+
+Find first and last occurrence of an element
+
+Find the kth smallest/largest element (Quickselect, Heap)
+
+Sort an array of 0s, 1s, and 2s (Dutch National Flag Algorithm)
+
+Merge Intervals (e.g., merge overlapping intervals)
+
+3. Two-Pointer Technique
+Two Sum (Find two numbers that sum to a target)
+
+Move Zeros to the end
+
+Remove Duplicates from a Sorted Array
+
+Container with Most Water (Max area in a histogram)
+
+4. Sliding Window Technique
+Find Maximum Sum Subarray of Size k
+
+Longest Substring Without Repeating Characters
+
+Longest Subarray with Sum at Most K
+
+Minimum Window Substring
+
+5. Prefix Sum / Kadane’s Algorithm
+Maximum Subarray Sum (Kadane’s Algorithm)
+
+Find Equilibrium Index
+
+Subarray Sum Equals K
+
+Find Pivot Index in an Array
+
+6. Hashing / Frequency Counting
+Find Duplicates in an Array
+
+Find the First Non-Repeating Element
+
+Check if Two Arrays are Equal (Ignoring Order)
+
+Find Missing and Repeating Numbers
+
+7. Matrix-Based Array Questions
+Rotate a Matrix by 90 degrees
+
+Spiral Traversal of a Matrix
+
+Set Matrix Zeroes (Mark rows and columns zero)
+
+Search in a Row-Wise and Column-Wise Sorted Matrix
+
+8. Greedy & Advanced
+Jump Game (Minimum jumps to reach the end)
+
+Trapping Rain Water
+
+Stock Buy and Sell for Maximum Profit
+
+Next Permutation
+
